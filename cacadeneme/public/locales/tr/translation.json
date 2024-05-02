@@ -1,0 +1,31 @@
+{   
+    "mainpage":{
+        "welcome":"Çaça'ya Hoşgeldiniz",
+        "menu":"Menü",
+        "home":"Ana Sayfa",
+        "about-header":"Hakkımızda",
+        "contact":"İletişim",
+        "about-title":"HAKKIMIZDA",
+        "about":"Şirketin kendisi oldukça başarılı bir şirket. Acıları ve ihtiyaçları şehvetle arasın, kendisini övenlere mi uyacağını açiklayayim mı, yoksa görevlerini küçümseyene sözler mi uysun? Çünkü çekmek bize düşen acılar sırasında, kimse bunu nasıl yapacağını bilmiyor, hayat ya da engel, yozlaşmışların ve benzeri övgücülerin zevkini reddederek! O halde kendisinin nerede olduğunu sormasına izin mi verelim?",
+        "find":"Bizi Nerede Bulabilirsin",
+        "antalya":"Kemer/Antalya",
+        "hour":"Açık olduğumuz saatler:"
+    },
+    "seabass":"Levrek Izgara",
+    "seabass-explanation":"Roka ve taze soğan sunumu ile",
+    "calamar":"Kalamar Tava",
+    "humus":"Humus",
+    "salads":{
+        "salads-name":{
+            "caca-salads":"Çaça Salata",
+            "onion-salads":"Soğanlı Domates Salatası",
+            "seafood-salads":"Deniz Ürünleri Salatası"
+        },
+        "salads-explanation":{
+            "caca-salads-explanation":"Roka,kvırcık marul,maydonoz,dere otu,fesleğen,reyhan,taze kekik",
+            "onion-salads-explanation":"Kuru soğan,bahçe domatesleri,nar ekşisi,taze sıkma limon suyu,sirke",
+            "seafood-salads-explanation":"Kalamar,karides,ahtapot,reyhan,taze kekik ve özel sos"
+        }
+    }
+    
+}

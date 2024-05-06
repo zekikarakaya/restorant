@@ -1,11 +1,16 @@
-import levrekimg from './img/levrek.jpg';
-import cupraimg from './img/cupra.webp';
-import barbunimg from './img/barbun.webp';
-import fishkofteimg from './img/fishkofte.jpg';
-import fishskewerimg from './img/fishskewer.jpg';
-import mixedplateimg from './img/mixedplate.jpg';
-import kofteimg from './img/kofte.jpg';
-import shrimpastaimg from './img/shrimpasta.webp';
+import levrekimg from '../img/levrek.jpg';
+import cupraimg from '../img/cupra.webp';
+import barbunimg from '../img/barbun.webp';
+import fishkofteimg from '../img/fishkofte.jpg';
+import fishskewerimg from '../img/fishskewer.jpg';
+import mixedplateimg from '../img/mixedplate.jpg';
+import kofteimg from '../img/kofte.jpg';
+import shrimpastaimg from '../img/shrimpasta.webp';
+import colaimg from '../img/kola.jpg';
+import fantaimg from '../img/fanta.png';
+import salgamimg from '../img/salgam.jpg';
+import ayranimg from '../img/ayran.jpg';
+import lemonadeimg from '../img/limonata.jpg';
 
 export const drinkItems=[
     {
@@ -16,31 +21,31 @@ export const drinkItems=[
             id: 1,
             name: 'Kola',
             price: 10.99,
-            img:levrekimg
+            img:colaimg
           },
           {
             id: 2,
             name: 'Fanta',
             price: 8.99,
-            img:cupraimg
+            img:fantaimg
           },
           {
             id: 3,
             name: 'Şalgam',
             price: 18.99,
-            img:fishkofteimg
+            img:salgamimg
           },
           {
             id: 4,
             name: 'Ayran',
             price: 18.99,
-            img:barbunimg
+            img:ayranimg
           },
           {
             id: 5,
             name: 'Limonata',
             price: 10.99,
-            img:fishskewerimg
+            img:lemonadeimg
           },
     ],
      alkollu:[

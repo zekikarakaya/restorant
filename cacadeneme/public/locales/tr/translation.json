@@ -11,21 +11,174 @@
         "antalya":"Kemer/Antalya",
         "hour":"Açık olduğumuz saatler:"
     },
-    "seabass":"Levrek Izgara",
-    "seabass-explanation":"Roka ve taze soğan sunumu ile",
-    "calamar":"Kalamar Tava",
-    "humus":"Humus",
-    "salads":{
-        "salads-name":{
-            "caca-salads":"Çaça Salata",
-            "onion-salads":"Soğanlı Domates Salatası",
-            "seafood-salads":"Deniz Ürünleri Salatası"
-        },
-        "salads-explanation":{
-            "caca-salads-explanation":"Roka,kvırcık marul,maydonoz,dere otu,fesleğen,reyhan,taze kekik",
-            "onion-salads-explanation":"Kuru soğan,bahçe domatesleri,nar ekşisi,taze sıkma limon suyu,sirke",
-            "seafood-salads-explanation":"Kalamar,karides,ahtapot,reyhan,taze kekik ve özel sos"
-        }
+    "menu-name":{
+        "mainfoods":"Ana Yemekler",
+        "hotstarters":"Ara Sıcaklar",
+        "mezeler":"Mezeler",
+        "salads":"Salatalar",
+        "drinks":"İçecekler",
+
+        "raki":"Rakılar",
+        "whiskey":"Viskiler",
+        "beer":"Biralar",
+        "vodka":"Votkalar"
+
+    },
+    "inside-menu-name":{
+        "levrek":"Levrek Izgara",
+        "cupra":"Çupra Izgara",
+        "balikkofte":"Balık Köfte",
+        "barbun":"Barbun Tava",
+        "baliksis":"Izgara Balık Şiş",
+        "mixedplate":"Karışık Deniz Ürünleri Tabağı",
+        "kofte":"Kasap Köfte",
+        "karidesmakarna":"Karidesli Makarna",
+
+        "kalamartava":"Kalamar Tava",
+        "karidestava":"Karides Tava",
+        "karidesguvec":"Karides Güveç",
+        "midyetava":"Midye Tava",
+        "ahtapotızgara":"Ahtapot Izgara",
+        "kalamarızgara":"Kalamar Izgara",
+        "karidessogus":"Karides Söğüş",
+        "karidesborek":"Karidesli Sigara Böreği",
+        "jumbokarides":"Jumbo Karides",
+        "balıkkavurma":"Balık Kavurma",
+
+        "humus":"Humus",
+        "muhammara":"Muhammara",
+        "fava":"Fava",
+        "babagannus":"Babagannus",
+        "haydari":"Haydari",
+        "atom":"Atom",
+        "zeytinsalatası":"Zeytin Salatası",
+
+        "cacasalads":"Çaça Salata",
+        "onionsalads":"Soğanlı Domates Salata",
+        "seasalads":"Deniz Ürünleri Salata",
+        "cheesesalads":"Peynirli Roka Salata",
+
+        "yeniraki":"Yeni Rakı",
+        "tekirdag-grape":"Tekirdag Yaş Üzüm",
+        "tekirdag-gold":"Tekirdağ Gold",
+        "efe-wet-grape":"Efe Yaş Üzüm",
+        "efe-gold":"Efe Gold",
+        "clup":"Kulüp Rakı",
+        "gobek":"BeylerBeyi Rakı",
+        "yellow-zeybek":"Sarı Zeybek",
+        "saki":"Saki Rakı",
+        
+        "redlabel":"Red Label",
+        "jb":"J&B",
+        "chivas":"Chivas",
+        "balantines":"Balantines",
+        "jackdaniels":"Jack Daniels",
+
+        "absolute":"Absolute",
+        "smirnoff":"Smirnoff",
+        "istanblue":"İstanblue",
+
+        "carlsberg":"Carlsberg",
+        "tuborg-gold":"Tuborg Gold",
+        "corona":"Corona",
+        "tuborgfilt":"Tuborg Filtresiz",
+        "bomontifilt":"Bomonti Filtresiz",
+        "miller":"Miller"
+    },
+    "inside-description":{
+        "levrek":"Roka ve taze soğan sunumu ile",
+        "cupra":"Roka ve taze soğan eşliğinde",
+        "balikkofte":"Tereyağı sebze yeşillik ve balık",
+        "barbun":"Taze roka taze soğan eşliğinde",
+        "baliksis":"zeytinyağı ile marine edilmiş taze balık",
+        "mixedplate":"Jumbo Karides,Kalamar,Mevsim Balıkları",
+        "kofte":"Patates cipsi Domates ve Biber eşliğinde",
+        "karidesmakarna":"Yeşil Biber,Kapya Biber,Sarımsak,Parmasan Peynir",
+        "kalamartava":"Kalamar Tava açıklama",
+
+        "cacasalads":"Roka,kıvırcık marul,maydonoz,dere otu,fesleğen,reyhan,taze kekik",
+        "onionsalads":"Kuru soğan,bahçe domatesleri,nar ekşisi,taze sıkma limon suyu,sirke",
+        "seasalads":"Kalamar,karides,ahtapot,reyhan,taze kekik ve özel sos",
+        "cheesesalads":"Taze roka,bahçe domatesi,sarımsak,beyaz peynir,nar ekşisi ve zeytinyağı eşliğinde"
+    },
+    "inside-price":{
+        "levrek-price":"320₺",
+        "cupra-price":"300₺",
+        "balıkkofte-price":"300₺",
+        "barbun-price":"450₺",
+        "balıksis-price":"300₺",
+        "mixed-price":"1900₺",
+        "kofte-price":"250₺",
+        "makarna-price":"300₺",
+
+        "calamar-price":"300₺",
+        "shrimp-price":"200₺",
+        "shrimp-stew-price":"250₺",
+        "mussel-price":"250₺",
+        "octopus-price":"500₺",
+        "calamar-grill-price":"190₺",
+        "shrimp-boiled-price":"220₺",
+        "shrimp-rolls-price":"200₺",
+        "jumbo-shrimp-price":"400₺",
+        "fish-roasting-price":"400₺",
+
+        "humus-price":"80₺",
+        "muhammara-price":"80₺",
+        "fava-price":"80₺",
+        "babagannus-price":"80₺",
+        "haydari-price":"80₺",
+        "atom-price":"80₺",
+        "zeytin-price":"80₺",
+
+        "cacasalads-price":"120₺",
+        "onionsalads-price":"100₺",
+        "seasalads-price":"250₺",
+        "cheesesalads-price":"130₺",
+
+        "yr-yetmis-price":"1000₺",
+        "yr-elli-price":"700₺",
+        "yr-otuzbes-price":"400₺",
+        "yr-yirmi-price":"200₺",
+
+        "ty-yetmis-price":"1100₺",
+        "ty-elli-price":"750₺",
+        "ty-otuzbes-price":"450₺",
+        "ty-yirmi-price":"250₺",
+
+        "tg-yetmis-price":"1200₺",
+        "tg-elli-price":"850₺",
+        "tg-otuzbes-price":"550₺",
+        "tg-yirmi-price":"350₺",
+
+        "ey-yetmis-price":"1250₺",
+        "ey-elli-price":"900₺",
+        "ey-otuzbes-price":"600₺",
+        "ey-yirmi-price":"350₺",
+
+        "eg-yetmis-price":"1250₺",
+        "eg-elli-price":"900₺",
+        "eg-otuzbes-price":"600₺",
+        "eg-yirmi-price":"350₺",
+
+        "cl-yetmis-price":"1250₺",
+        "cl-elli-price":"900₺",
+        "cl-otuzbes-price":"600₺",
+        "cl-yirmi-price":"350₺",
+
+        "go-yetmis-price":"1250₺",
+        "go-elli-price":"900₺",
+        "go-otuzbes-price":"600₺",
+        "go-yirmi-price":"350₺",
+
+        "sz-yetmis-price":"1250₺",
+        "sz-elli-price":"900₺",
+        "sz-otuzbes-price":"600₺",
+        "sz-yirmi-price":"350₺",
+
+        "sa-yetmis-price":"1250₺",
+        "sa-elli-price":"900₺",
+        "sa-otuzbes-price":"600₺",
+        "sa-yirmi-price":"350₺"
     }
     
 }

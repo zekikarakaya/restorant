@@ -11,21 +11,171 @@
         "antalya":"Kemer/Antalya",
         "hour":"Opening Hours:"
     },
-  
-    "seabass":"Grilled sea bass",
-    "seabass-explanation":"Served with fresh arugula scallion",
-    "calamar":"Fried Calamari",
-    "humus":"Humus",
-    "salads":{
-        "salads-name":{
-            "caca-salads":"Caca Salad",
-            "onion-salads":"Onion tomato Salad",
-            "seafood-salads":"Sea food salad"
-        },
-        "salads-explanation":{
-            "caca-salads-explanation":"Aragula,curly lettuce,parsley,mint,basil",
-            "onion-salads-explanation":"Dry onion,tomato with pomegranate souce",
-            "seafood-salads-explanation":"Shrimp,octopus with fresh lettuce,basilicum,thymi"
-        }
+    "menu-name":{
+        "mainfoods":"Main Foods",
+        "hotstarters":"Hot Starters",
+        "mezeler":"Cold Starters",
+        "salads":"Salads",
+        "drinks":"Drinks",
+
+        "raki":"Rakılar",
+        "whiskey":"Viskiler",
+        "beer":"Biralar",
+        "vodka":"Votkalar"
+    },
+    "inside-menu-name":{
+        "levrek":"Grilled Sea Bass",
+        "cupra":"Grilled Sea Beam",
+        "balikkofte":"Fish Kofte",
+        "barbun":"Red Mullet",
+        "baliksis":"Grilled Fish Skewer",
+        "mixedplate":"Mixed Sea Food Plate",
+        "kofte":"Butcher Kofte",
+        "karidesmakarna":"Pasta with Shrimp",
+
+        "kalamartava":"Fried Calamari",
+        "karidestava":"Shrimp Pan",
+        "karidesguvec":"Shrimp Stew",
+        "midyetava":"Fried Mussels",
+        "ahtapotızgara":"Octopus Grill",
+        "kalamarızgara":"Grill Calamari",
+        "karidessogus":"Shrimp Boiled",
+        "karidesborek":"Shrimp Rolls",
+        "jumbokarides":"Jumbo Shrimp",
+        "balıkkavurma":"Fish Roasting",
+
+        "humus":"Humus",
+        "muhammara":"Muhammara",
+        "fava":"Fava",
+        "babagannus":"Babagannus",
+        "haydari":"Haydari",
+        "atom":"Atom",
+        "zeytinsalatası":"Zeytin Salatası",
+
+        "cacasalads":"Çaça Salad",
+        "onionsalads":"Onion and Tomato Salad",
+        "seasalads":"Sea Food Salad",
+        "cheesesalads":"Cheese and Aragula Salad",
+
+        "yeniraki":"Yeni Rakı",
+        "tekirdag-grape":"Tekirdag Yaş Üzüm",
+        "tekirdag-gold":"Tekirdağ Gold",
+        "efe-wet-grape":"Efe Yaş Üzüm",
+        "efe-gold":"Efe Gold",
+        "clup":"Kulüp Rakı",
+        "gobek":"BeylerBeyi Rakı",
+        "yellow-zeybek":"Sarı Zeybek",
+        "saki":"Saki Rakı",
+
+        "redlabel":"Red Label",
+        "jb":"J&B",
+        "chivas":"Chivas",
+        "balantines":"Balantines",
+        "jackdaniels":"Jack Daniels",
+
+        "absolute":"Absolute",
+        "smirnoff":"Smirnoff",
+        "istanblue":"İstanblue",
+
+        "carlsberg":"Carlsberg",
+        "tuborg-gold":"Tuborg Gold",
+        "corona":"Corona",
+        "tuborgfilt":"Tuborg Filtresiz",
+        "bomontifilt":"Bomonti Filtresiz",
+        "miller":"Miller"
+    },
+    "inside-description":{
+        "levrek":"Served with fresh arugula scallion",
+        "cupra":"Served with fresh arugula scallion",
+        "balikkofte":"Butter vegetable fish mixture",
+        "barbun":"Pan fried red mullet served with fresh arugula scallion",
+        "baliksis":"Fresh fish marinated with olive oil, laurel, lemon and garlic, grilled on skewers with tomatoes and fresh green pepper",
+        "mixedplate":"Jumbo Shrimp, Calamari, Sea Bass, Seasonal fishes",
+        "kofte":"Served with Patato chips,tomata and pepper",
+        "karidesmakarna":"Served with Green pepper, kapya pepper, garlic, parmesan cheese",
+
+        "cacasalads":"Aragula,curly lettuce,parsley,mint,basil",
+        "onionsalads":"Dry onion,tomato with pomegranate souce",
+        "seasalads":"Shrimp,octopus with fresh lettuce,basilicum,thymi",
+        "cheesesalads":"Aragula salad with tomatoes garlic,feta cheese flavored with pomegranade souce extra virgin oil"
+    },
+    "inside-price":{
+        "levrek-price":"10$",
+        "cupra-price":"10$",
+        "balıkkofte-price":"10$",
+        "barbun-price":"15$",
+        "balıksis-price":"10$",
+        "mixed-price":"65$",
+        "kofte-price":"10$",
+        "makarna-price":"10$",
+
+        "calamar-price":"10$",
+        "shrimp-price":"10$",
+        "shrimp-stew-price":"10$",
+        "mussel-price":"10$",
+        "octopus-price":"15$",
+        "calamar-grill-price":"10$",
+        "shrimp-boiled-price":"10$",
+        "shrimp-rolls-price":"10$",
+        "jumbo-shrimp-price":"15$",
+        "fish-roasting-price":"10$",
+
+        "humus-price":"5$",
+        "muhammara-price":"5$",
+        "fava-price":"5$",
+        "babagannus-price":"5$",
+        "haydari-price":"5$",
+        "atom-price":"5$",
+        "zeytin-price":"5$",
+
+        "cacasalads-price":"10$",
+        "onionsalads-price":"10$",
+        "seasalads-price":"10$",
+        "cheesesalads-price":"10$",
+
+        "yr-yetmis-price":"30$",
+        "yr-elli-price":"20$",
+        "yr-otuzbes-price":"10$",
+        "yr-yirmi-price":"5$",
+
+        "ty-yetmis-price":"30$",
+        "ty-elli-price":"20$",
+        "ty-otuzbes-price":"10$",
+        "ty-yirmi-price":"5$",
+
+        "tg-yetmis-price":"30$",
+        "tg-elli-price":"20$",
+        "tg-otuzbes-price":"10$",
+        "tg-yirmi-price":"5$",
+
+        "ey-yetmis-price":"30$",
+        "ey-elli-price":"20$",
+        "ey-otuzbes-price":"10$",
+        "ey-yirmi-price":"10$",
+
+        "eg-yetmis-price":"30$",
+        "eg-elli-price":"20$",
+        "eg-otuzbes-price":"10$",
+        "eg-yirmi-price":"5$",
+
+        "cl-yetmis-price":"30$",
+        "cl-elli-price":"20$",
+        "cl-otuzbes-price":"10$",
+        "cl-yirmi-price":"5$",
+
+        "go-yetmis-price":"30$",
+        "go-elli-price":"20$",
+        "go-otuzbes-price":"10$",
+        "go-yirmi-price":"5$",
+
+        "sz-yetmis-price":"30$",
+        "sz-elli-price":"20$",
+        "sz-otuzbes-price":"10$",
+        "sz-yirmi-price":"5$",
+
+        "sa-yetmis-price":"30$",
+        "sa-elli-price":"20$",
+        "sa-otuzbes-price":"10$",
+        "sa-yirmi-price":"5$"
     }
 }

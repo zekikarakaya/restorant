@@ -14,7 +14,7 @@ const Main = () => {
         <div className='w-full flex flex-col absolute top-[240px] md:left-24 items-center justify-center md:items-start'>
         <h1 className='font-bold text-2xl'>{t('mainpage.welcome')}</h1>
         <Link to="/menu">
-        <button className='mt-4 bg-header-color rounded-md p-2 text-white'>{t('menu')}</button>
+        <button className='mt-4 bg-header-color rounded-md p-2 text-white'>{t('mainpage.menu')}</button>
         </Link>
         
         </div>

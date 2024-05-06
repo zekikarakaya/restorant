@@ -20,7 +20,7 @@ const FindMap = () => {
           <FaPhoneAlt></FaPhoneAlt>
           </div>
         
-          <p className='text-sm md:text-xl '>0326 618 15 71</p>
+          <p className='text-sm md:text-xl '>0242 814 35 55</p>
         
         </div>
         

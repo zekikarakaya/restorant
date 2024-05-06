@@ -6,7 +6,7 @@ const DropDown = () => {
   return (
     <div className='w-24 text-black flex flex-col absolute top-24 right-1 rounded-lg border border-gray-500 p-3 space-y-3 z-10'>
     <Link to="/">{t('mainpage.home')}</Link>
-    <Link to="/menu">{t('mainpag.menu')}</Link>
+    <Link to="/menu">{t('mainpage.menu')}</Link>
    </div>
   )
 }

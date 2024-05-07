@@ -10,13 +10,12 @@ const Main = () => {
       };
       const { t } = useTranslation();
   return (
-    <div style={divStyle} className='h-[660px] relative shadow-2xl mt-10'>
+    <div style={divStyle} className='h-[800px] relative shadow-2xl mt-10'>
         <div className='w-full flex flex-col absolute top-[240px] md:left-24 items-center justify-center md:items-start'>
         <h1 className='font-bold text-2xl'>{t('mainpage.welcome')}</h1>
         <Link to="/menu">
         <button className='mt-4 bg-header-color rounded-md p-2 text-white'>{t('mainpage.menu')}</button>
         </Link>
-        
         </div>
     </div>
   )

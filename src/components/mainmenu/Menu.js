@@ -1,6 +1,6 @@
 import React from "react";
 import {Outlet } from "react-router-dom";
-import MenuCard from "../cards/MenuCard";
+import MenuCard from "../shared/MenuCard";
 import { motion } from "framer-motion";
 const Menu = () => {
 

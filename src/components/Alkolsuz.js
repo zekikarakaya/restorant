@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import DrinksCard from './cards/DrinksCard';
+import DrinksCard from './shared/DrinksCard';
 import { motion } from "framer-motion";
 const Alkolsuz = () => {
   

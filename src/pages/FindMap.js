@@ -31,8 +31,6 @@ const FindMap = () => {
 </div> 
    </div>
     
-
-
 </div>
   )
 }

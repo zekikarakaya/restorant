@@ -23,8 +23,6 @@ const MenuInsideCard = ({type}) => {
         translateY :0
       }
     }
-    // bunlar ana div e vereceğin  variants={container} initial="hidden" animate="visible"
-    // bu da map içindeki ilk div e vereceğin   variants={item} 
   return (
     <motion.div variants={container} initial="hidden" animate="visible" className='w-full'>
   {items.map(item1 => (
